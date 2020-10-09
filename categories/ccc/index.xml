@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title></title>
-        <link>bearzz2020.github.io/</link>
-        <description>程序员的自我修养</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 09 Oct 2020 09:24:50 &#43;0800</lastBuildDate>
-            <atom:link href="bearzz2020.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>ccc - 分类 - </title>
+        <link>bearzz2020.github.io/categories/ccc/</link>
+        <description>ccc - 分类 - </description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 09 Oct 2020 09:24:50 &#43;0800</lastBuildDate><atom:link href="bearzz2020.github.io/categories/ccc/" rel="self" type="application/rss+xml" /><item>
     <title>建立静态博客：Github Pages, Hugo, LoveIt</title>
     <link>bearzz2020.github.io/20201009_start_hugo/</link>
     <pubDate>Fri, 09 Oct 2020 09:24:50 &#43;0800</pubDate>

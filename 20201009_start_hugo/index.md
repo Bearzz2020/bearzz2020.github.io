@@ -1,7 +1,11 @@
 # 建立静态博客：Github Pages, Hugo, LoveIt
 
 
-主页：<https://gohugo.io/>
+GitHub Pages：
+
+Hugo：<https://gohugo.io/>
+
+LoveIt：<https://hugoloveit.com/zh-cn/>
 
 ### Hugo 命令
 

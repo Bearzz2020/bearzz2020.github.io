@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - 程序员的自我修养</title>
+        <title>所有文章 - </title>
         <link>bearzz2020.github.io/posts/</link>
-        <description>所有文章 | 程序员的自我修养</description>
+        <description>所有文章 | </description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 09 Oct 2020 09:24:50 &#43;0800</lastBuildDate><atom:link href="bearzz2020.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>建立静态博客：Github Pages, Hugo, LoveIt</title>
     <link>bearzz2020.github.io/20201009_start_hugo/</link>
     <pubDate>Fri, 09 Oct 2020 09:24:50 &#43;0800</pubDate>
     <author>作者</author>
     <guid>bearzz2020.github.io/20201009_start_hugo/</guid>
-    <description><![CDATA[主页：https://gohugo.io/ Hugo 命令 1 2 3 4 hugo new posts/first_post.md hugo serve hugo serve --disableFastRender Emoji https://hugoloveit.com/zh-cn/emoji-support/]]></description>
+    <description><![CDATA[GitHub Pages： Hugo：https://gohugo.io/ LoveIt：https://hugoloveit.com/zh-cn/ Hugo 命令 1]]></description>
 </item></channel>
 </rss>
